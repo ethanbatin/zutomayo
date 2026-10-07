@@ -71,3 +71,35 @@ html, body {
     text-align: left;
     font-size: 10px;
 }
+
+.spin {
+    padding: 0;
+    min-height: 100vh;
+    position: relative;
+}
+
+.gif {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 200px;
+}
+
+.popup {
+    position: absolute;
+}
+
+.popup1 {
+    left: 84%;
+    top: 42%;
+}
+
+.popup2 {
+    left: 73%;
+    top: 73%;
+}
+
+.popup3 {
+    left: 82%;
+    top: 80%;
+}
