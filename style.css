@@ -38,3 +38,36 @@ html, body {
 .menu a:hover {
     color: purple;
 }
+
+.socials {
+    margin-top: 280px;
+}
+
+.socials a {
+    color: black;
+    background-color: white;
+    border-radius: 20%;
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.socials a:hover {
+    background-color: pink;
+}
+
+.copyright {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.nihongo {
+    background-color: pink;
+    border: none;
+    width: 155px;
+    height: 20px;
+    text-align: left;
+    font-size: 10px;
+}
